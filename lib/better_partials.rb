@@ -80,7 +80,7 @@ module BetterPartials
       end
     end
     
-    # make it more suh-man-tech
+    # make it more sermantic
     # e.g. partials @people
     def partials(collection)
       partial(collection) if collection
